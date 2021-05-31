@@ -1,0 +1,14 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C279-7757
+
+ Directory of D:\BYJU\PERSONAL\GROWTH\MyProject
+
+31-05-2021  07:18 PM    <DIR>          .
+31-05-2021  07:18 PM    <DIR>          ..
+31-05-2021  03:56 PM                 0 git
+31-05-2021  04:18 PM                86 index.html
+31-05-2021  04:46 PM             7,501 Samples tried in Git.txt
+31-05-2021  04:05 PM               381 test1.txt
+31-05-2021  07:18 PM                 0 test2.txt
+               5 File(s)          7,968 bytes
+               2 Dir(s)  97,461,035,008 bytes free
